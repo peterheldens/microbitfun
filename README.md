@@ -4,6 +4,8 @@ This is WORK IN PROGRESS
 ## Welcome to the resources section 
 Here you can view & download the makecode code for projects listed in the book
 
+[direct link to simulator](#simulator)
+
 # Level 0
 
 | Chapter | Project Name          | GitHub                                                        | MakeCode or Scratch                                             | Reviewed |
