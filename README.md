@@ -25,6 +25,18 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+# Level 0
+
+| Chapter | Project Name          | GitHub                                                        | MakeCode or Scratch                                             | Reviewed |
+| ------- | :-------------------- | :------------------------------------------------------------ | :-------------------------------------------------------------- | :------- |
+| 0.0     | What is the micro:Bit |                                                               |                                                                 | yes      |
+| 0.1     | Name Badge            | [view on github](https://github.com/microbitfun/name-badge)   | [open in makecode](https://makecode.microbit.org/_hKu46faXDM3P) | yes      |
+| 0.2     | Animation             | [view on github](https://github.com/microbitfun/animation)    | [open in makecode](https://makecode.microbit.org/_29o07LJp0RdC) | yes      |
+| 0.3     | Lucky Number          | [view on github](https://github.com/microbitfun/lucky-number) | [open in makecode](https://makecode.microbit.org/_gwUWx2TJC8eD) | yes      |
+| 0.4     | Game                  | [view on github](https://github.com/microbitfun/game)         | [open in makecode](https://makecode.microbit.org/_TLvbvkVVtHgT) | yes      |
+| 0.5     | Temperature           | [view on github](https://github.com/microbitfun/temperature)  | [open in makecode](https://makecode.microbit.org/_JKoD9Jf6P4KD) | yes      |
+| 0.6     | Shake                 | [view on github](https://github.com/microbitfun/shake)        | [open in makecode](https://makecode.microbit.org/_XiuaFTJETdio) | yes      |
+| 0.7     | Download              |                                                               |                                       
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
